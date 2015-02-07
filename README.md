@@ -1,6 +1,6 @@
 ### Daisy-Blue Free WordPress Theme
 -----------------------------
-Daisy-Blue Blog Theme is a responsive WordPress theme with light professional color scheme, icon fonts and flexible layout for any device including desktop, laptops, tables, phones. It is built on Bootstrap 3.0. Theme supports full range of post formats in WordPress which are styled in unique and beautiful way.
+DaisyBlue is upto date, Responsive, simple and clean WordPress Theme, built using Bootstrap 3.x & updated upto date with bootstrap. DaisyBlue being responsinve is optimized for all devices like iPhone, Tablet, macbook, desktop & all other wide and small devices. Theme supports for custom header, custom background, breadcrumbs and has built in social sharing widget & Recent Posts With thumbnails widget. 
 
 ## [Demo](http://oopthemes.com/shop/Daisy-Blue)
 
