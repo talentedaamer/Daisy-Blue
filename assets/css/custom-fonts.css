@@ -1,0 +1,66 @@
+/*-----------------------------------------------------------------------------------*/
+/* Custom Fonts - light */
+/*-----------------------------------------------------------------------------------*/
+@font-face {
+    font-family: 'robotolight';
+    src: url('../fonts/roboto/roboto-light-webfont.eot');
+    src: url('../fonts/roboto/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto/roboto-light-webfont.woff') format('woff'),
+         url('../fonts/roboto/roboto-light-webfont.ttf') format('truetype'),
+         url('../fonts/roboto/roboto-light-webfont.svg#robotolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*-----------------------------------------------------------------------------------*/
+/* Custom Fonts - Medium */
+/*-----------------------------------------------------------------------------------*/
+@font-face {
+    font-family: 'robotomedium';
+    src: url('../fonts/roboto/roboto-medium-webfont.eot');
+    src: url('../fonts/roboto/roboto-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto/roboto-medium-webfont.woff') format('woff'),
+         url('../fonts/roboto/roboto-medium-webfont.ttf') format('truetype'),
+         url('../fonts/roboto/roboto-medium-webfont.svg#robotomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*-----------------------------------------------------------------------------------*/
+/* basic font usage */
+/*-----------------------------------------------------------------------------------*/
+
+body {
+  font-family: "robotolight", Helvetica, sans-serif;
+  line-height: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "robotomedium", Helvetica, sans-serif;
+}
+/*heading font sizes*/
+h1 {
+    font-size: 36px;
+    line-height: 42px;
+}
+h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+h3 {
+    font-size: 18px;
+    line-height: 24px;
+}
+h4 {
+    font-size: 16px;
+    line-height: 22px;
+}
+h5 {
+    font-size: 14px;
+    line-height: 20px;
+}
+h6 {
+    font-size: 12px;
+    line-height: 18px;
+}

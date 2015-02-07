@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daisy Blue\n"
+"POT-Creation-Date: 2014-06-03 17:44+0500\n"
+"PO-Revision-Date: 2014-06-03 17:56+0500\n"
+"Last-Translator: Aamer Shahzad <talentedaamer@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Désolé, mais la page que vous essayez d'afficher n'existe pas."
+
+#: 404.php:15
+msgid "It looks like this was the result of either:"
+msgstr "Il ressemble à ceci est le résultat d'une ou l'autre:"
+
+#: 404.php:17
+msgid "a mistyped address"
+msgstr "une adresse erronée"
+
+#: 404.php:18
+msgid "an out-of-date link"
+msgstr "un lien out-of-date de"
+
+#: index.php:15
+msgid "Sorry, no results were found."
+msgstr "Désolé, aucun résultat n'a été trouvé."
+
+#: lib/custom.php:20
+msgid "Primary Navigation"
+msgstr "Navigation principale"
+
+#: lib/custom.php:93
+#, php-format
+msgid "Page %s"
+msgstr "page %s"
+
+#: lib/custom.php:160
+msgid "Continued"
+msgstr "continuer"
+
+#: lib/custom.php:267
+msgid "Page"
+msgstr "page"
+
+#: lib/custom.php:283
+msgid ""
+"This post is password protected. To view it please enter your password "
+"below: "
+msgstr ""
+"Ce poste est protégé par mot. Pour voir s'il vous plaît, entrez votre mot de "
+"passe ci-dessous :"
+
+#: lib/custom.php:352
+msgid "First"
+msgstr "première"
+
+#: lib/custom.php:355
+msgid "previous"
+msgstr "précédent"
+
+#: lib/custom.php:370
+msgid "next"
+msgstr "suivant"
+
+#: lib/custom.php:374
+msgid "Last"
+msgstr "dernier"
+
+#: lib/entry-meta.php:20
+#, php-format
+msgid ""
+"<span class=\"date\"><i class=\"fa fa-clock-o\"></i><a href=\"%1$s\" title="
+"\"%2$s\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span>"
+msgstr ""
+"<span class=\"date\"><i class=\"fa fa-clock-o\"></i><a href=\"%1$s\" title="
+"\"%2$s\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></a></span>"
+
+#: lib/entry-meta.php:36
+#, php-format
+msgid ""
+"<span class=\"author\"><i class=\"fa fa-user\"></i><span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</"
+"a></span></span>"
+msgstr ""
+"<span class=\"author\"><i class=\"fa fa-user\"></i><span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</"
+"a></span></span>"
+
+#: lib/entry-meta.php:38
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les messages de %s"
+
+#: lib/entry-meta.php:53
+msgid " Leave a comment"
+msgstr "Ajouter un commentaire"
+
+#: lib/entry-meta.php:53
+msgid " 1 Comment"
+msgstr "1 Commentaire"
+
+#: lib/entry-meta.php:53
+msgid " % Comments"
+msgstr "% Commentaires"
+
+#: lib/titles.php:10 lib/widgets.php:98
+msgid "Latest Posts"
+msgstr "Derniers Messages"
+
+#: lib/titles.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Daily Archives: %s"
+
+#: lib/titles.php:21
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles: %s"
+
+#: lib/titles.php:23
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles: %s"
+
+#: lib/titles.php:26
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives de l'auteur: %s"
+
+#: lib/titles.php:31
+#, php-format
+msgid "Search Results for %s"
+msgstr "Résultats de la recherche pour %s"
+
+#: lib/titles.php:33
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: lib/widgets.php:8
+msgid "Primary"
+msgstr "primaire"
+
+#: lib/widgets.php:28
+msgid "01 : Recent Posts Widget"
+msgstr "01 : Articles récents Widget"
+
+#: lib/widgets.php:30
+msgid "Show list of recent posts with whumbnail anywhere in widget area."
+msgstr ""
+"Voir liste des derniers messages avec whumbnail n'importe où dans la zone de "
+"widget."
+
+#: lib/widgets.php:104
+msgid "5"
+msgstr "5"
+
+#: lib/widgets.php:108
+msgid "Title:"
+msgstr "Titre:"
+
+#: lib/widgets.php:111
+msgid "No. of Posts:"
+msgstr "Nombre de messages:"
+
+#: templates/comment.php:4
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: templates/comment.php:5
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: templates/comment.php:9
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: templates/comments.php:8
+#, php-format
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "One Response to &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Les réponses à &ldquo;%2$s&rdquo;"
+
+#: templates/comments.php:18
+msgid "&larr; Older comments"
+msgstr "&larr; commentaires âgées"
+
+#: templates/comments.php:21
+msgid "Newer comments &rarr;"
+msgstr " commentaires récents &rarr;"
+
+#: templates/comments.php:29 templates/comments.php:38
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: templates/comments.php:45
+msgid "Leave a Reply"
+msgstr "Laisser un commentaire"
+
+#: templates/comments.php:45 woocommerce/single-product-reviews.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Laisser un commentaire à %s"
+
+#: templates/comments.php:48
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a href=\"%s\">connecté</a> pour poster un commentaire."
+
+#: templates/comments.php:53
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Connecté en tant que <a href=\"%s/wp-admin/profile.php\">%s</a>."
+
+#: templates/comments.php:54
+msgid "Log out of this account"
+msgstr "Déconnectez-vous de ce compte"
+
+#: templates/comments.php:54
+msgid "Log out &raquo;"
+msgstr "Déconnectez-vous &raquo;"
+
+#: templates/comments.php:58 woocommerce/single-product-reviews.php:59
+msgid "Name"
+msgstr "nom"
+
+#: templates/comments.php:58 templates/comments.php:62
+msgid " (required)"
+msgstr " (obligatoire)"
+
+#: templates/comments.php:62
+msgid "Email (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#: templates/comments.php:66
+msgid "Website"
+msgstr "Website"
+
+#: templates/comments.php:71
+msgid "Comment"
+msgstr "commentaire"
+
+#: templates/comments.php:74
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: templates/content-page.php:17 templates/content-single.php:35
+msgid "Pages:"
+msgstr "Pages:"
+
+#: templates/footer.php:12
+msgid "&copy;"
+msgstr "&copy;"
+
+#: templates/footer.php:18
+msgid "http://oopthemes.com/"
+msgstr "http://oopthemes.com/"
+
+#: templates/footer.php:18
+msgid "OOPThemes"
+msgstr "OOPThemes"
+
+#: templates/searchform.php:9
+msgid "Search"
+msgstr "recherche"
+
+#: woocommerce/single-product-reviews.php:18
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s examiner pour %s"
+msgstr[1] "%s avis pour %s"
+
+#: woocommerce/single-product-reviews.php:20
+msgid "Reviews"
+msgstr "commentaires"
+
+#: woocommerce/single-product-reviews.php:41
+msgid "There are no reviews yet."
+msgstr "Il n'y a pas encore de commentaire."
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Add a review"
+msgstr "Ajouter un commentaire"
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Be the first to review"
+msgstr "Soyez le premier à donner votre avis"
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr "soumettre"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr "votre Note"
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr "Taux et de l'aide;"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr "parfait"
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr "Bon"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr "Moyenne"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr "Pas si mal"
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr "très Mauvais"
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Review"
+msgstr "votre avis"
+
+#: woocommerce/single-product-reviews.php:89
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Seulement identifié clients qui ont acheté ce produit peut laisser un avis."

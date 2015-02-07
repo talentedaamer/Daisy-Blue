@@ -1,0 +1,11 @@
+version 1.0.8
+-------------
+
+1 - added sidebar right page template.
+2 - added a hook before the main content ( db_before_main_content ).
+3 - css fixes for padding in the footer.
+
+version 1.0.7
+-------------
+
+initial release version.
